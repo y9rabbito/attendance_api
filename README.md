@@ -13,3 +13,7 @@ This project was built during my final year. We planned to use an android applic
 necessary changes according to platform
 
 [Github](https://www.github.com "Github home") Here is our Android Application link.
+
+You can get the API Here [Railway API]("attendanceapi-production.up.railway.app "Railway API"), after the url add your table name and other credentials like _attendanceapi-production.up.railway.app/attendance/1/05/23_, like this request will give a json response of student id 1, in the month of May(05),2023
+
+**Note that unless the server is running you can't get the data in application as well as response header**
