@@ -7,7 +7,7 @@ This project was built during my final year. We planned to use an android applic
     ```Javascript
     CONN_STRING = YOUR_DATABASE_CONNECTION_STRING
     ```
-3. _Also check the sql statements and table names might be different in case of yours_
+3. **_Also check the sql statements and table names might be different in case of yours_**
    
 4. Chose any of the hosting platform (heroku/glitch/railway/digitalocean), before deployement make 
 necessary changes according to platform
