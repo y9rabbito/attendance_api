@@ -3,7 +3,7 @@ This project was built during my final year. We planned to use an android applic
 
 ### How to start this project
 1. Rename the **.env_sample** file named to **.env** 
-2. Set the `CONN_STRING` to your database url
+2. Set the `CONN_STRING` to your database url, inside the **.env** file
     ```Javascript
     CONN_STRING = YOUR_DATABASE_CONNECTION_STRING
     ```
