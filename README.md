@@ -12,7 +12,7 @@ This project was built during my final year. We planned to use an android applic
 4. Chose any of the hosting platform (heroku/glitch/railway/digitalocean), before deployement make 
 necessary changes according to platform
 
-[Github](https://www.github.com "Github home") Here is our Android Application link.
+[Android Application Attendance Report Viewer](https://github.com/y9rabbito/Attendance-Report-Viewer "Attendance Report Viewer") Here is our Android Application link.
 
 You can get the API Here [Railway API]("attendanceapi-production.up.railway.app "Railway API"), after the url add your table name and other credentials like _attendanceapi-production.up.railway.app/attendance/1/05/23_, like this request will give a json response of student id 1, in the month of May(05),2023
 
